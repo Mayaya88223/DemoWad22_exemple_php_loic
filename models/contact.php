@@ -5,5 +5,6 @@ $datalist = [
     "Firefox",
     "Google Chrome",
     "Opera",
-    "Safari"
+    "Safari",
+    "Brave"
 ];
